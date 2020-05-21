@@ -16,3 +16,4 @@ if(get-module -list activedirectory){
 } else {
   write-warning "Install RSAT Tools"
 }
+
